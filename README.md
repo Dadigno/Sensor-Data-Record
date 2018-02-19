@@ -3,6 +3,7 @@ A software for windows designed to record more data communicated through the ser
 
 <img src="/Media/overview1.png" width="600">
 <img src="/Media/overview2.png" width="600">
+
 # V1.0 Features:
 
 - maxiumun three sensor (three chart on the same graph)
