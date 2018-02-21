@@ -2,7 +2,8 @@
 A software for windows designed to record more data communicated through the serial port (arduino). There is an example code for arduino which use 3 analogue sensors on ports A0 A1 A2.
 
 <img src="/Media/overview1.png" width="600">
-<img src="/Media/Example.png" width="600">
+<img src="/Media/overview2.png" width="600">
+
 # V1.0 Features:
 
 - maxiumun three sensor (three chart on the same graph)
