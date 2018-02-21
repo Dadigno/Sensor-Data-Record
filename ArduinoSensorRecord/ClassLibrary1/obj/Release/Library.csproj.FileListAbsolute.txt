@@ -1,0 +1,6 @@
+C:\Users\UniDavide\Desktop\git\Sensor-Data-Record\ArduinoSensorRecord\ClassLibrary1\bin\Release\Library.dll
+C:\Users\UniDavide\Desktop\git\Sensor-Data-Record\ArduinoSensorRecord\ClassLibrary1\bin\Release\Library.pdb
+C:\Users\UniDavide\Desktop\git\Sensor-Data-Record\ArduinoSensorRecord\ClassLibrary1\obj\Release\Library.csproj.ResolveComReference.cache
+C:\Users\UniDavide\Desktop\git\Sensor-Data-Record\ArduinoSensorRecord\ClassLibrary1\obj\Release\Library.csproj.CoreCompileInputs.cache
+C:\Users\UniDavide\Desktop\git\Sensor-Data-Record\ArduinoSensorRecord\ClassLibrary1\obj\Release\Library.dll
+C:\Users\UniDavide\Desktop\git\Sensor-Data-Record\ArduinoSensorRecord\ClassLibrary1\obj\Release\Library.pdb

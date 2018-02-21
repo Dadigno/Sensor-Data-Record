@@ -1,0 +1,13 @@
+C:\Users\UniDavide\Desktop\git\Sensor-Data-Record\ArduinoSensorRecord\ArduinoSensorRecord\bin\Release\SensorDataRecord.exe.config
+C:\Users\UniDavide\Desktop\git\Sensor-Data-Record\ArduinoSensorRecord\ArduinoSensorRecord\bin\Release\SensorDataRecord.exe
+C:\Users\UniDavide\Desktop\git\Sensor-Data-Record\ArduinoSensorRecord\ArduinoSensorRecord\bin\Release\SensorDataRecord.pdb
+C:\Users\UniDavide\Desktop\git\Sensor-Data-Record\ArduinoSensorRecord\ArduinoSensorRecord\bin\Release\Library.dll
+C:\Users\UniDavide\Desktop\git\Sensor-Data-Record\ArduinoSensorRecord\ArduinoSensorRecord\bin\Release\Library.pdb
+C:\Users\UniDavide\Desktop\git\Sensor-Data-Record\ArduinoSensorRecord\ArduinoSensorRecord\obj\Release\SensorDataRecord.csprojResolveAssemblyReference.cache
+C:\Users\UniDavide\Desktop\git\Sensor-Data-Record\ArduinoSensorRecord\ArduinoSensorRecord\obj\Release\SensorDataRecord.csproj.ResolveComReference.cache
+C:\Users\UniDavide\Desktop\git\Sensor-Data-Record\ArduinoSensorRecord\ArduinoSensorRecord\obj\Release\SensorDataRecord.Form1.resources
+C:\Users\UniDavide\Desktop\git\Sensor-Data-Record\ArduinoSensorRecord\ArduinoSensorRecord\obj\Release\SensorDataRecord.Properties.Resources.resources
+C:\Users\UniDavide\Desktop\git\Sensor-Data-Record\ArduinoSensorRecord\ArduinoSensorRecord\obj\Release\SensorDataRecord.csproj.GenerateResource.Cache
+C:\Users\UniDavide\Desktop\git\Sensor-Data-Record\ArduinoSensorRecord\ArduinoSensorRecord\obj\Release\SensorDataRecord.csproj.CoreCompileInputs.cache
+C:\Users\UniDavide\Desktop\git\Sensor-Data-Record\ArduinoSensorRecord\ArduinoSensorRecord\obj\Release\SensorDataRecord.exe
+C:\Users\UniDavide\Desktop\git\Sensor-Data-Record\ArduinoSensorRecord\ArduinoSensorRecord\obj\Release\SensorDataRecord.pdb

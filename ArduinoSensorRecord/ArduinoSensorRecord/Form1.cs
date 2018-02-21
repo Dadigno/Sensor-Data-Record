@@ -4,7 +4,7 @@ using System.IO.Ports;
 using System.Windows.Forms;
 using System.Windows.Forms.DataVisualization.Charting;
 
-namespace ArduinoSensorRecord
+namespace SensorDataRecord
 {
     public partial class Form1 : Form
     {
@@ -61,7 +61,6 @@ namespace ArduinoSensorRecord
                     buttonSend.Enabled = true;
                     button1.Text = "Disconnect";
                     button5.Enabled = false;
-                    button7.Enabled = false;
                     button4.Enabled = false;
                     Class1.port.DataReceived += new System.IO.Ports.SerialDataReceivedEventHandler(SerialPort1_DataReceived);
                 }
@@ -87,7 +86,6 @@ namespace ArduinoSensorRecord
                 buttonSend.Enabled = false;
                 button1.Text = "Connect";
                 button5.Enabled = true;
-                button7.Enabled = true;
                 button4.Enabled = true;
             }
         }
@@ -180,10 +178,7 @@ namespace ArduinoSensorRecord
 
         private void ButtonClearGraph_Click(object sender, EventArgs e)
         {
-            for (int i = 0; i < chart1.Series.Count; i++)
-            {
-                chart1.Series[i].Points.Clear();
-            }
+            chart1.Series.Clear();
         }
 
         private void Button2_Click(object sender, EventArgs e)
@@ -247,7 +242,7 @@ namespace ArduinoSensorRecord
 
         private void Button7_Click(object sender, EventArgs e)
         {
-            chart1.Series.Clear();
+            
         }
 
         private void Button4_Click(object sender, EventArgs e)
@@ -260,5 +255,9 @@ namespace ArduinoSensorRecord
             }
         }
 
+        private void LinkLabel1_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
+        {
+            System.Diagnostics.Process.Start("https://github.com/Dadigno");
+        }
     }
 }

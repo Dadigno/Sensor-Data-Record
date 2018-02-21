@@ -6,13 +6,20 @@ using System.Windows.Forms.DataVisualization.Charting;
 using Excel = Microsoft.Office.Interop.Excel;
 using System.Runtime.InteropServices;
 
-namespace ArduinoSensorRecord
+namespace SensorDataRecord
 {
     public class Class1 : Form
     {
         public static SerialPort port;
         public static List<List<int>> series = new List<List<int>>();
-        private static List<string> commandAccepted = new List<string> { "Two sensor setted\r" , "One sensor setted\r" , "Command Unknown\r"};
+        private static List<string> commandAccepted = new List<string> {
+            "Two sensor setted",
+            "One sensor setted",
+            "Command Unknown",
+            "Insert a new sampling time: ",
+            "Ok",
+            "Value not valid"
+        };
         
 
         public static void InitSerialConnection(string portName, int baudRate)

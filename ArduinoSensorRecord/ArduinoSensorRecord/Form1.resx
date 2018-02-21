@@ -126,6 +126,21 @@
   <metadata name="SaveExcel.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
     <value>205, 17</value>
   </metadata>
+  <data name="richTextBox1.Text" xml:space="preserve">
+    <value>List of command:
+"start" :  start data flow
+"stop"  : arrest data flow
+"set" : set the  value rate in millisecond, default is 100
+
+How to use:
+1. add at least one chart (max 3)
+2. press "Connect" button
+3. send "start" command to start the data flow anche "stop" command to stop it
+4. use tools to manipulate the values
+
+Problem? 
+</value>
+  </data>
   <metadata name="$this.TrayHeight" type="System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
     <value>25</value>
   </metadata>

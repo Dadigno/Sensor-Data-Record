@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26730.15
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArduinoSensorRecord", "ArduinoSensorRecord\ArduinoSensorRecord.csproj", "{4D8DD0B3-033C-487C-AA99-671343468A2B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SensorDataRecord", "ArduinoSensorRecord\SensorDataRecord.csproj", "{4D8DD0B3-033C-487C-AA99-671343468A2B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary1", "ClassLibrary1\ClassLibrary1.csproj", "{2188E761-C903-4F5B-A61A-DEBDE2554193}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Library", "ClassLibrary1\Library.csproj", "{2188E761-C903-4F5B-A61A-DEBDE2554193}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
